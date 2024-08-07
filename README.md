@@ -14,7 +14,7 @@
      and currently
       <br>
       <img src = "https://national-u.edu.ph/wp-content/uploads/2018/12/NU-Shield_FC_RGB_POS_AW-910x1024.png" width = "50" height = "50">
-      A Bachelors in Computer Science with Specialization in Machine Learning student at National University
+      A Bachelor in Computer Science with Specialization in Machine Learning student at National University
     </h4>
   <h3>
     <i>connect with me</i>
