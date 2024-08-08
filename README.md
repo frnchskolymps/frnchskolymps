@@ -1,35 +1,62 @@
 <div id = "header" align = "center">
   <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcncybTFzNHgweWRvaGo3azdzOXNibmRzYWpkdzg3c213NDdoZG8yNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" width="300">
     <h2>
-      <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM3bTFkYTlzbHN2bmJ3cXdvdWh6bHV6anE1cmdwbHV4Y3d0ZzdwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LhTDHdt8yzoA1chbqr/giphy.gif"
-        width ="30" height = "30">
-      hello, I'm Cheska Olympia
-      <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM3bTFkYTlzbHN2bmJ3cXdvdWh6bHV6anE1cmdwbHV4Y3d0ZzdwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LhTDHdt8yzoA1chbqr/giphy.gif"
-        width ="30" height = "30">
+      <img src = "https://media.tenor.com/2RMHRRKtaGoAAAAi/dog.gif" width ="40" height = "40">
+        hello, I'm Cheska Olympia
+      <img src = "https://media.tenor.com/2RMHRRKtaGoAAAAi/dog.gif" width ="40" height = "40">
     </h2>
     <h4>
-      <img src = "https://cdn.freelogovectors.net/wp-content/uploads/2017/05/pup-logo-Polytechnic_University_of_the_Philippines.png" width = "30" height = "30">
-      A Diploma in Information and Communication Technology graduate from Polytechnic University of the Philippines
-    <br><br><br>
-     and currently
-      <br>
-      <img src = "https://national-u.edu.ph/wp-content/uploads/2018/12/NU-Shield_FC_RGB_POS_AW-910x1024.png" width = "50" height = "50">
-      A Bachelor in Computer Science with Specialization in Machine Learning student at National University
+      <img src = "https://media.tenor.com/TMM9nphr3B8AAAAi/pikachu-pokemon.gif" width ="40" height = "40">
+        A Diploma in Information and Communication Technology graduate from Polytechnic University of the Philippines <br><br>
+        and currently <br>
+        A Bachelor in Computer Science with Specialization in Machine Learning student at National University
+      <img src = "https://media.tenor.com/y1mQPzf_p7UAAAAi/qoobee-blushing.gif" width = "40" height = "40">
     </h4>
-  <h3>
-    <i>connect with me</i>
-  </h3>
-  <a href = "https://www.instagram.com/chskolymps/">
-    <img src = "https://th.bing.com/th/id/R.03f40b67b63d9c1c1a5a792109bbc699?rik=8HhXk%2b5PP7XurQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2finstagram%2finstagram_PNG10.png&ehk=%2f7%2ftghrL31GFpelB7DZvprao8IZHRvmhi0BpDsEAZgI%3d&risl=&pid=ImgRaw&r=0"
+    <img src = "https://media.tenor.com/HoocNDDrUKgAAAAi/rexx.gif" width = "150" height = "150">
+    <h3>
+      <i>Connect with me:</i>
+    </h3>
+    <a href = "https://www.instagram.com/chskolymps/">
+      <img src = "https://th.bing.com/th/id/R.03f40b67b63d9c1c1a5a792109bbc699?rik=8HhXk%2b5PP7XurQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2finstagram%2finstagram_PNG10.png&ehk=%2f7%2ftghrL31GFpelB7DZvprao8IZHRvmhi0BpDsEAZgI%3d&risl=&pid=ImgRaw&r=0"
     width = "50" height = "50">
-  </a>
-  <a href = "https://www.linkedin.com/in/francheska-olympia/">
-    <img src = "https://itcnet.gr/wp-content/uploads/2020/09/Linkedin-logo-on-transparent-Background-PNG-.png" width = "50" height = "50">
-  </a>
-  <a href = "https://x.com/chskolymps">
-    <img src = "https://static.vecteezy.com/system/resources/previews/027/395/710/non_2x/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" width = "50" height = "50">
-  </a>
-  <hr>
+    </a>
+    <a href = "https://www.linkedin.com/in/francheska-olympia/">
+      <img src = "https://itcnet.gr/wp-content/uploads/2020/09/Linkedin-logo-on-transparent-Background-PNG-.png" width = "50" height = "50">
+    </a>
+    <a href = "https://x.com/chskolymps">
+      <img src = "https://static.vecteezy.com/system/resources/previews/027/395/710/non_2x/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" width = "50" height = "50">
+    </a>
+    <br><br>
+    <img src = "https://media.tenor.com/z1YT2LePMWkAAAAi/tkthao219-peach.gif" width = "150" height = "150">
+    <h3>
+      <i>Languages & Tools I know:</i>
+    </h3>
+    <img src = "https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width = "40" height = "40">
+    <img src = "https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png" width = "40" height = "40">
+    <img src = "https://www.pngkit.com/png/full/101-1010012_download-png.png" width = "40" height = "40">
+    <img src = "https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png" width = "40" height = "40">
+    <img src = "https://logodix.com/logo/1137946.png" width = "40" height = "40">
+    <br>
+    <img src = "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width = "40" height = "40">
+    <img src = "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width = "40" height = "40">
+    <img src = "https://saasradar.net/wp-content/uploads/2021/04/react-2048x2048.png" width = "40" height = "40">
+    <br>
+    <img src = "https://geekhacker.ru/wp-content/uploads/2021/03/sql_logo.png" width = "40" height = "40">
+    <img src = "https://pngimg.com/uploads/php/php_PNG43.png" width = "50" height = "40">
+    <br>
+    <img src = "https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width = "50" height = "40">
+    <img src = "https://brandlogos.net/wp-content/uploads/2021/11/visual-studio-code-logo.png" width = "40" height = "40">
+    <img src = "https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" width = "50" height = "40">
+    <br>
+    <h6>
+      <i>still learning...</i>
+    </h6>
+    <hr>
+    <h4>
+      <img src = "https://media.tenor.com/woeasjYR7JMAAAAi/bubu-bubbu.gif" width = "150" height = "150">
+        <i>&nbsp&nbsp For optimal performance, coffee is a must</i>
+      <img src = "https://media.tenor.com/qMwy9pHiCkEAAAAi/peach-goma-peach-and-goma.gif" width = "150" height = "150">
+    </h4>
 
 <!--
 **frnchskolymps/frnchskolymps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
