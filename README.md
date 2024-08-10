@@ -44,7 +44,6 @@
     <img src = "https://geekhacker.ru/wp-content/uploads/2021/03/sql_logo.png" width = "40" height = "40">
     <img src = "https://pngimg.com/uploads/php/php_PNG43.png" width = "50" height = "40">
     <br>
-    <img src = "https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width = "50" height = "40">
     <img src = "https://brandlogos.net/wp-content/uploads/2021/11/visual-studio-code-logo.png" width = "40" height = "40">
     <img src = "https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" width = "50" height = "40">
     <br>
