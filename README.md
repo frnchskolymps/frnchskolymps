@@ -33,7 +33,7 @@
     </h3>
     <img src = "https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width = "40" height = "40">
     <img src = "https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png" width = "40" height = "40">
-    <img src = "https://www.pngkit.com/png/full/101-1010012_download-png.png" width = "40" height = "40">
+    <img src = "https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" width = "40" height = "40">
     <img src = "https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png" width = "40" height = "40">
     <img src = "https://logodix.com/logo/1137946.png" width = "40" height = "40">
     <br>
