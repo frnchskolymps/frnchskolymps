@@ -1,10 +1,5 @@
 <div id = "header" align = "center">
   <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcncybTFzNHgweWRvaGo3azdzOXNibmRzYWpkdzg3c213NDdoZG8yNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" width="300">
-    <h2>
-      <img src = "https://media.tenor.com/2RMHRRKtaGoAAAAi/dog.gif" width ="40" height = "40">
-        Cheska Olympia
-      <img src = "https://media.tenor.com/2RMHRRKtaGoAAAAi/dog.gif" width ="40" height = "40">
-    </h2>
     <h4>
       <img src = "https://media.tenor.com/TMM9nphr3B8AAAAi/pikachu-pokemon.gif" width ="40" height = "40">
         A Diploma in Information and Communication Technology graduate from Polytechnic University of the Philippines <br><br>
