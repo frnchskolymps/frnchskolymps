@@ -2,7 +2,7 @@
   <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcncybTFzNHgweWRvaGo3azdzOXNibmRzYWpkdzg3c213NDdoZG8yNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" width="300">
     <h2>
       <img src = "https://media.tenor.com/2RMHRRKtaGoAAAAi/dog.gif" width ="40" height = "40">
-        hello, I'm Cheska Olympia
+        Cheska Olympia
       <img src = "https://media.tenor.com/2RMHRRKtaGoAAAAi/dog.gif" width ="40" height = "40">
     </h2>
     <h4>
