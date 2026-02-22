@@ -36,7 +36,7 @@
     <img src = "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width = "40" height = "40">
     <img src = "https://saasradar.net/wp-content/uploads/2021/04/react-2048x2048.png" width = "40" height = "40">
     <br>
-    <img src = "https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width = "40" height = "40">
+    <img src = "https://png.pngtree.com/png-vector/20220726/ourmid/pngtree-design-a-uiux-app-logo-with-a-sql-database-icon-vector-png-image_25084656.png" width = "40" height = "40">
     <img src = "https://pngimg.com/uploads/php/php_PNG43.png" width = "50" height = "40">
     <br>
     <img src = "https://brandlogos.net/wp-content/uploads/2021/11/visual-studio-code-logo.png" width = "40" height = "40">
