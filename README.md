@@ -3,8 +3,8 @@
     <h4>
       <img src = "https://media.tenor.com/TMM9nphr3B8AAAAi/pikachu-pokemon.gif" width ="40" height = "40">
         A Diploma in Information and Communication Technology graduate from Polytechnic University of the Philippines <br><br>
-        and currently <br>
-        A Bachelor in Computer Science with Specialization in Machine Learning student at National University
+        and <br>
+        A Bachelor in Computer Science with Specialization in Machine Learning graduate at National University
       <img src = "https://media.tenor.com/y1mQPzf_p7UAAAAi/qoobee-blushing.gif" width = "40" height = "40">
     </h4>
     <img src = "https://media.tenor.com/HoocNDDrUKgAAAAi/rexx.gif" width = "150" height = "150">
@@ -36,7 +36,7 @@
     <img src = "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width = "40" height = "40">
     <img src = "https://saasradar.net/wp-content/uploads/2021/04/react-2048x2048.png" width = "40" height = "40">
     <br>
-    <img src = "https://geekhacker.ru/wp-content/uploads/2021/03/sql_logo.png" width = "40" height = "40">
+    <img src = "https://geekhacker.ru/wp-content/uploads/2021/03/sql_logo.png](https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width = "40" height = "40">
     <img src = "https://pngimg.com/uploads/php/php_PNG43.png" width = "50" height = "40">
     <br>
     <img src = "https://brandlogos.net/wp-content/uploads/2021/11/visual-studio-code-logo.png" width = "40" height = "40">
