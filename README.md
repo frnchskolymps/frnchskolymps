@@ -4,7 +4,7 @@
         A graduate of<br><br>
         Diploma in Information and Communication Technology - Polytechnic University of the Philippines, batch 2022 <br><br>
         & <br><br>
-        Bachelor of Science in Computer Science with Specialization in Machine Learning graduate - National University, batch 2026
+        Bachelor of Science in Computer Science with Specialization in Machine Learning - National University, batch 2026
     </h4>
     <img src = "https://media.tenor.com/HoocNDDrUKgAAAAi/rexx.gif" width = "150" height = "150">
     <h3>
