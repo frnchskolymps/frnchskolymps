@@ -1,11 +1,9 @@
 <div id = "header" align = "center">
   <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcncybTFzNHgweWRvaGo3azdzOXNibmRzYWpkdzg3c213NDdoZG8yNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" width="300">
     <h4>
-      <img src = "https://media.tenor.com/TMM9nphr3B8AAAAi/pikachu-pokemon.gif" width ="40" height = "40">
-        A Diploma in Information and Communication Technology - Polytechnic University of the Philippines, batch 2022 <br><br>
-        and <br>
-        A Bachelor in Computer Science with Specialization in Machine Learning graduate - National University, batch 2026
-      <img src = "https://media.tenor.com/y1mQPzf_p7UAAAAi/qoobee-blushing.gif" width = "40" height = "40">
+        Diploma in Information and Communication Technology - Polytechnic University of the Philippines, batch 2022 <br><br>
+        & <br>
+        Bachelor in Computer Science with Specialization in Machine Learning graduate - National University, batch 2026
     </h4>
     <img src = "https://media.tenor.com/HoocNDDrUKgAAAAi/rexx.gif" width = "150" height = "150">
     <h3>
